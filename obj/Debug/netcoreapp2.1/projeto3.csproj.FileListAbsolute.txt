@@ -1,0 +1,11 @@
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\bin\Debug\netcoreapp2.1\projeto3.deps.json
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\bin\Debug\netcoreapp2.1\projeto3.runtimeconfig.json
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\bin\Debug\netcoreapp2.1\projeto3.runtimeconfig.dev.json
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\bin\Debug\netcoreapp2.1\projeto3.dll
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\bin\Debug\netcoreapp2.1\projeto3.pdb
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\obj\Debug\netcoreapp2.1\projeto3.csprojAssemblyReference.cache
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\obj\Debug\netcoreapp2.1\projeto3.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\obj\Debug\netcoreapp2.1\projeto3.AssemblyInfoInputs.cache
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\obj\Debug\netcoreapp2.1\projeto3.AssemblyInfo.cs
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\obj\Debug\netcoreapp2.1\projeto3.dll
+C:\Users\sergi\Documents\PRONATEC\PPI 3 jogos\projeto3\obj\Debug\netcoreapp2.1\projeto3.pdb
